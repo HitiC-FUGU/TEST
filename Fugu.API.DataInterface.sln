@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuguDataAccess", "FuguDataAccess\FuguDataAccess.csproj", "{BC29E1B8-00A1-49B1-B0E8-D827D83E8E33}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fugu.DataAccess", "FuguDataAccess\Fugu.DataAccess.csproj", "{BC29E1B8-00A1-49B1-B0E8-D827D83E8E33}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FuguTestAPI", "FuguAPI\FuguTestAPI.csproj", "{E19FE6C4-2BD5-45CE-B1B6-DCB37F5C1612}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fugu.DataInterface", "FuguAPI\Fugu.DataInterface.csproj", "{E19FE6C4-2BD5-45CE-B1B6-DCB37F5C1612}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
